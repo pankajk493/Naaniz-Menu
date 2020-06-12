@@ -1,0 +1,16 @@
+.menu{
+	font-weight: bold;
+}
+.main{
+	padding-top: 3.5em;
+	line-height: 1.2;
+}
+.off{
+	display: inline;
+}
+.current{
+	font-weight: bold;
+}
+.right{
+	color: orange;
+}

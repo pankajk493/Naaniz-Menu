@@ -1,0 +1,23 @@
+.main{
+	padding-top: 3.5em;
+}
+.add{
+     font-weight: bold;
+     font-family: arial;
+}
+.enter{
+ font-weight: bold;
+ font-family: arial;
+}
+.height{
+	line-height: 4;
+	color: grey;
+}
+#addbutton{
+	font-size:20px;
+	display: inline-block;
+
+}
+.save{
+	line-height: 8;
+}

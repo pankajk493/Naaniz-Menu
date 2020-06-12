@@ -1,0 +1,37 @@
+.main{
+	padding-top: 3.7em;
+}
+h3{
+	font-weight: bold;
+
+}
+.add{
+	font-weight: lighter;
+	font-family: arial;
+}
+.optional{
+	color:grey;
+}
+.big{
+font-size: 13px;
+
+}
+.small{
+ font-size:11px;
+}
+.height{
+	color:grey;
+}
+.change{
+	line-height: 3;
+}
+.upload{
+	font-size:34px;
+}
+#addbutton{
+	font-size:14px;
+	display: inline-block;
+}
+.save{
+	line-height: 8;
+}
